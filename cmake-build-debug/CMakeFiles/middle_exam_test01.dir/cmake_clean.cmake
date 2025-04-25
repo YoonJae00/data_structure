@@ -1,0 +1,41 @@
+file(REMOVE_RECURSE
+  "CMakeFiles/middle_exam_test01.dir/middle_exam/array_test.c.o"
+  "CMakeFiles/middle_exam_test01.dir/middle_exam/array_test.c.o.d"
+  "CMakeFiles/middle_exam_test01.dir/middle_exam/malloc_test.c.o"
+  "CMakeFiles/middle_exam_test01.dir/middle_exam/malloc_test.c.o.d"
+  "CMakeFiles/middle_exam_test01.dir/middle_exam/pointer_test.cpp.o"
+  "CMakeFiles/middle_exam_test01.dir/middle_exam/pointer_test.cpp.o.d"
+  "CMakeFiles/middle_exam_test01.dir/middle_exam/pointer_test02.c.o"
+  "CMakeFiles/middle_exam_test01.dir/middle_exam/pointer_test02.c.o.d"
+  "CMakeFiles/middle_exam_test01.dir/middle_exam/stack_bfs.c.o"
+  "CMakeFiles/middle_exam_test01.dir/middle_exam/stack_bfs.c.o.d"
+  "CMakeFiles/middle_exam_test01.dir/middle_exam/stack_change_int.c.o"
+  "CMakeFiles/middle_exam_test01.dir/middle_exam/stack_change_int.c.o.d"
+  "CMakeFiles/middle_exam_test01.dir/middle_exam/stack_maze.c.o"
+  "CMakeFiles/middle_exam_test01.dir/middle_exam/stack_maze.c.o.d"
+  "CMakeFiles/middle_exam_test01.dir/middle_exam/stack_postfix.c.o"
+  "CMakeFiles/middle_exam_test01.dir/middle_exam/stack_postfix.c.o.d"
+  "CMakeFiles/middle_exam_test01.dir/middle_exam/stack_postfix2.c.o"
+  "CMakeFiles/middle_exam_test01.dir/middle_exam/stack_postfix2.c.o.d"
+  "CMakeFiles/middle_exam_test01.dir/middle_exam/stack_test01.c.o"
+  "CMakeFiles/middle_exam_test01.dir/middle_exam/stack_test01.c.o.d"
+  "CMakeFiles/middle_exam_test01.dir/middle_exam/stack_test02.c.o"
+  "CMakeFiles/middle_exam_test01.dir/middle_exam/stack_test02.c.o.d"
+  "CMakeFiles/middle_exam_test01.dir/middle_exam/stack_test_check_matching.c.o"
+  "CMakeFiles/middle_exam_test01.dir/middle_exam/stack_test_check_matching.c.o.d"
+  "CMakeFiles/middle_exam_test01.dir/middle_exam/test01.c.o"
+  "CMakeFiles/middle_exam_test01.dir/middle_exam/test01.c.o.d"
+  "CMakeFiles/middle_exam_test01.dir/middle_exam/test02.c.o"
+  "CMakeFiles/middle_exam_test01.dir/middle_exam/test02.c.o.d"
+  "CMakeFiles/middle_exam_test01.dir/middle_exam/test04.c.o"
+  "CMakeFiles/middle_exam_test01.dir/middle_exam/test04.c.o.d"
+  "CMakeFiles/middle_exam_test01.dir/middle_exam/test05.c.o"
+  "CMakeFiles/middle_exam_test01.dir/middle_exam/test05.c.o.d"
+  "middle_exam_test01"
+  "middle_exam_test01.pdb"
+)
+
+# Per-language clean rules from dependency scanning.
+foreach(lang C CXX)
+  include(CMakeFiles/middle_exam_test01.dir/cmake_clean_${lang}.cmake OPTIONAL)
+endforeach()

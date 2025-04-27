@@ -51,4 +51,5 @@ set(CMAKE_DEPEND_INFO_FILES
   "CMakeFiles/middle_exam_test01.dir/DependInfo.cmake"
   "CMakeFiles/hanoi_top.dir/DependInfo.cmake"
   "CMakeFiles/terms_test.dir/DependInfo.cmake"
+  "CMakeFiles/new_target.dir/DependInfo.cmake"
   )

@@ -2,5 +2,6 @@
 /Users/yoonjae/Desktop/학교/2025-1학기 자료구조/cmake-build-debug/CMakeFiles/middle_exam_test01.dir
 /Users/yoonjae/Desktop/학교/2025-1학기 자료구조/cmake-build-debug/CMakeFiles/hanoi_top.dir
 /Users/yoonjae/Desktop/학교/2025-1학기 자료구조/cmake-build-debug/CMakeFiles/terms_test.dir
+/Users/yoonjae/Desktop/학교/2025-1학기 자료구조/cmake-build-debug/CMakeFiles/new_target.dir
 /Users/yoonjae/Desktop/학교/2025-1학기 자료구조/cmake-build-debug/CMakeFiles/edit_cache.dir
 /Users/yoonjae/Desktop/학교/2025-1학기 자료구조/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -66,3 +66,5 @@ add_executable(hanoi_top middle_exam/hanoi_top.c)
 add_executable(terms_test middle_exam/terms.c
         middle_exam/test03.c
         middle_exam/test04.c)
+add_executable(new_target middle_exam/que_test01.c
+        middle_exam/deque_test01.c)

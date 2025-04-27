@@ -168,6 +168,19 @@ terms_test/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/terms_test.dir/build.make CMakeFiles/terms_test.dir/build
 .PHONY : terms_test/fast
 
+#=============================================================================
+# Target rules for targets named new_target
+
+# Build rule for target.
+new_target: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 new_target
+.PHONY : new_target
+
+# fast build rule for target.
+new_target/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/new_target.dir/build.make CMakeFiles/new_target.dir/build
+.PHONY : new_target/fast
+
 0312/structTest.o: 0312/structTest.c.o
 .PHONY : 0312/structTest.o
 
@@ -1080,6 +1093,30 @@ middle_exam/array_test.c.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/middle_exam_test01.dir/build.make CMakeFiles/middle_exam_test01.dir/middle_exam/array_test.c.s
 .PHONY : middle_exam/array_test.c.s
 
+middle_exam/deque_test01.o: middle_exam/deque_test01.c.o
+.PHONY : middle_exam/deque_test01.o
+
+# target to build an object file
+middle_exam/deque_test01.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/new_target.dir/build.make CMakeFiles/new_target.dir/middle_exam/deque_test01.c.o
+.PHONY : middle_exam/deque_test01.c.o
+
+middle_exam/deque_test01.i: middle_exam/deque_test01.c.i
+.PHONY : middle_exam/deque_test01.i
+
+# target to preprocess a source file
+middle_exam/deque_test01.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/new_target.dir/build.make CMakeFiles/new_target.dir/middle_exam/deque_test01.c.i
+.PHONY : middle_exam/deque_test01.c.i
+
+middle_exam/deque_test01.s: middle_exam/deque_test01.c.s
+.PHONY : middle_exam/deque_test01.s
+
+# target to generate assembly for a file
+middle_exam/deque_test01.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/new_target.dir/build.make CMakeFiles/new_target.dir/middle_exam/deque_test01.c.s
+.PHONY : middle_exam/deque_test01.c.s
+
 middle_exam/hanoi_top.o: middle_exam/hanoi_top.c.o
 .PHONY : middle_exam/hanoi_top.o
 
@@ -1175,6 +1212,30 @@ middle_exam/pointer_test02.s: middle_exam/pointer_test02.c.s
 middle_exam/pointer_test02.c.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/middle_exam_test01.dir/build.make CMakeFiles/middle_exam_test01.dir/middle_exam/pointer_test02.c.s
 .PHONY : middle_exam/pointer_test02.c.s
+
+middle_exam/que_test01.o: middle_exam/que_test01.c.o
+.PHONY : middle_exam/que_test01.o
+
+# target to build an object file
+middle_exam/que_test01.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/new_target.dir/build.make CMakeFiles/new_target.dir/middle_exam/que_test01.c.o
+.PHONY : middle_exam/que_test01.c.o
+
+middle_exam/que_test01.i: middle_exam/que_test01.c.i
+.PHONY : middle_exam/que_test01.i
+
+# target to preprocess a source file
+middle_exam/que_test01.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/new_target.dir/build.make CMakeFiles/new_target.dir/middle_exam/que_test01.c.i
+.PHONY : middle_exam/que_test01.c.i
+
+middle_exam/que_test01.s: middle_exam/que_test01.c.s
+.PHONY : middle_exam/que_test01.s
+
+# target to generate assembly for a file
+middle_exam/que_test01.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/new_target.dir/build.make CMakeFiles/new_target.dir/middle_exam/que_test01.c.s
+.PHONY : middle_exam/que_test01.c.s
 
 middle_exam/stack_bfs.o: middle_exam/stack_bfs.c.o
 .PHONY : middle_exam/stack_bfs.o
@@ -1526,6 +1587,7 @@ help:
 	@echo "... 2025_1_"
 	@echo "... hanoi_top"
 	@echo "... middle_exam_test01"
+	@echo "... new_target"
 	@echo "... terms_test"
 	@echo "... 0312/structTest.o"
 	@echo "... 0312/structTest.i"
@@ -1641,6 +1703,9 @@ help:
 	@echo "... middle_exam/array_test.o"
 	@echo "... middle_exam/array_test.i"
 	@echo "... middle_exam/array_test.s"
+	@echo "... middle_exam/deque_test01.o"
+	@echo "... middle_exam/deque_test01.i"
+	@echo "... middle_exam/deque_test01.s"
 	@echo "... middle_exam/hanoi_top.o"
 	@echo "... middle_exam/hanoi_top.i"
 	@echo "... middle_exam/hanoi_top.s"
@@ -1653,6 +1718,9 @@ help:
 	@echo "... middle_exam/pointer_test02.o"
 	@echo "... middle_exam/pointer_test02.i"
 	@echo "... middle_exam/pointer_test02.s"
+	@echo "... middle_exam/que_test01.o"
+	@echo "... middle_exam/que_test01.i"
+	@echo "... middle_exam/que_test01.s"
 	@echo "... middle_exam/stack_bfs.o"
 	@echo "... middle_exam/stack_bfs.i"
 	@echo "... middle_exam/stack_bfs.s"

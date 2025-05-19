@@ -1,7 +1,8 @@
 cmake_minimum_required(VERSION 3.30)
 project(2025_1_)
 
-set(CMAKE_CXX_STANDARD 17)
+#set(CMAKE_CXX_STANDARD 17)
+set(CMAKE_OSX_SYSROOT /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk)
 
 add_executable(2025_1_ main.cpp
         0312/test1.cpp
@@ -67,4 +68,16 @@ add_executable(terms_test middle_exam/terms.c
         middle_exam/test03.c
         middle_exam/test04.c)
 add_executable(new_target middle_exam/que_test01.c
-        middle_exam/deque_test01.c)
+        middle_exam/deque_test01.c
+        middle_exam/list_test01.c
+        0507/test01.cpp
+        0507/test01.h
+        0507/test02.c
+        0512/test01.c)
+add_executable(new_target2 0512/tset02.c
+        0512/test03.c
+        0514/test01.c
+        0514/test02.c)
+add_executable(practice9 practice_9/problem1.c
+        practice_9/problem2.c
+        practice_9/problem3.c)

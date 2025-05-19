@@ -52,4 +52,6 @@ set(CMAKE_DEPEND_INFO_FILES
   "CMakeFiles/hanoi_top.dir/DependInfo.cmake"
   "CMakeFiles/terms_test.dir/DependInfo.cmake"
   "CMakeFiles/new_target.dir/DependInfo.cmake"
+  "CMakeFiles/new_target2.dir/DependInfo.cmake"
+  "CMakeFiles/practice9.dir/DependInfo.cmake"
   )

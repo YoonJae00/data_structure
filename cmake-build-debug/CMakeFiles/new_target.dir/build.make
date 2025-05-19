@@ -97,19 +97,83 @@ CMakeFiles/new_target.dir/middle_exam/deque_test01.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/new_target.dir/middle_exam/deque_test01.c.s"
 	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S "/Users/yoonjae/Desktop/학교/2025-1학기 자료구조/middle_exam/deque_test01.c" -o CMakeFiles/new_target.dir/middle_exam/deque_test01.c.s
 
+CMakeFiles/new_target.dir/middle_exam/list_test01.c.o: CMakeFiles/new_target.dir/flags.make
+CMakeFiles/new_target.dir/middle_exam/list_test01.c.o: /Users/yoonjae/Desktop/학교/2025-1학기\ 자료구조/middle_exam/list_test01.c
+CMakeFiles/new_target.dir/middle_exam/list_test01.c.o: CMakeFiles/new_target.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir="/Users/yoonjae/Desktop/학교/2025-1학기 자료구조/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_3) "Building C object CMakeFiles/new_target.dir/middle_exam/list_test01.c.o"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/new_target.dir/middle_exam/list_test01.c.o -MF CMakeFiles/new_target.dir/middle_exam/list_test01.c.o.d -o CMakeFiles/new_target.dir/middle_exam/list_test01.c.o -c "/Users/yoonjae/Desktop/학교/2025-1학기 자료구조/middle_exam/list_test01.c"
+
+CMakeFiles/new_target.dir/middle_exam/list_test01.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/new_target.dir/middle_exam/list_test01.c.i"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E "/Users/yoonjae/Desktop/학교/2025-1학기 자료구조/middle_exam/list_test01.c" > CMakeFiles/new_target.dir/middle_exam/list_test01.c.i
+
+CMakeFiles/new_target.dir/middle_exam/list_test01.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/new_target.dir/middle_exam/list_test01.c.s"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S "/Users/yoonjae/Desktop/학교/2025-1학기 자료구조/middle_exam/list_test01.c" -o CMakeFiles/new_target.dir/middle_exam/list_test01.c.s
+
+CMakeFiles/new_target.dir/0507/test01.cpp.o: CMakeFiles/new_target.dir/flags.make
+CMakeFiles/new_target.dir/0507/test01.cpp.o: /Users/yoonjae/Desktop/학교/2025-1학기\ 자료구조/0507/test01.cpp
+CMakeFiles/new_target.dir/0507/test01.cpp.o: CMakeFiles/new_target.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir="/Users/yoonjae/Desktop/학교/2025-1학기 자료구조/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/new_target.dir/0507/test01.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/new_target.dir/0507/test01.cpp.o -MF CMakeFiles/new_target.dir/0507/test01.cpp.o.d -o CMakeFiles/new_target.dir/0507/test01.cpp.o -c "/Users/yoonjae/Desktop/학교/2025-1학기 자료구조/0507/test01.cpp"
+
+CMakeFiles/new_target.dir/0507/test01.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/new_target.dir/0507/test01.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/Users/yoonjae/Desktop/학교/2025-1학기 자료구조/0507/test01.cpp" > CMakeFiles/new_target.dir/0507/test01.cpp.i
+
+CMakeFiles/new_target.dir/0507/test01.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/new_target.dir/0507/test01.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/Users/yoonjae/Desktop/학교/2025-1학기 자료구조/0507/test01.cpp" -o CMakeFiles/new_target.dir/0507/test01.cpp.s
+
+CMakeFiles/new_target.dir/0507/test02.c.o: CMakeFiles/new_target.dir/flags.make
+CMakeFiles/new_target.dir/0507/test02.c.o: /Users/yoonjae/Desktop/학교/2025-1학기\ 자료구조/0507/test02.c
+CMakeFiles/new_target.dir/0507/test02.c.o: CMakeFiles/new_target.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir="/Users/yoonjae/Desktop/학교/2025-1학기 자료구조/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_5) "Building C object CMakeFiles/new_target.dir/0507/test02.c.o"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/new_target.dir/0507/test02.c.o -MF CMakeFiles/new_target.dir/0507/test02.c.o.d -o CMakeFiles/new_target.dir/0507/test02.c.o -c "/Users/yoonjae/Desktop/학교/2025-1학기 자료구조/0507/test02.c"
+
+CMakeFiles/new_target.dir/0507/test02.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/new_target.dir/0507/test02.c.i"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E "/Users/yoonjae/Desktop/학교/2025-1학기 자료구조/0507/test02.c" > CMakeFiles/new_target.dir/0507/test02.c.i
+
+CMakeFiles/new_target.dir/0507/test02.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/new_target.dir/0507/test02.c.s"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S "/Users/yoonjae/Desktop/학교/2025-1학기 자료구조/0507/test02.c" -o CMakeFiles/new_target.dir/0507/test02.c.s
+
+CMakeFiles/new_target.dir/0512/test01.c.o: CMakeFiles/new_target.dir/flags.make
+CMakeFiles/new_target.dir/0512/test01.c.o: /Users/yoonjae/Desktop/학교/2025-1학기\ 자료구조/0512/test01.c
+CMakeFiles/new_target.dir/0512/test01.c.o: CMakeFiles/new_target.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir="/Users/yoonjae/Desktop/학교/2025-1학기 자료구조/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_6) "Building C object CMakeFiles/new_target.dir/0512/test01.c.o"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/new_target.dir/0512/test01.c.o -MF CMakeFiles/new_target.dir/0512/test01.c.o.d -o CMakeFiles/new_target.dir/0512/test01.c.o -c "/Users/yoonjae/Desktop/학교/2025-1학기 자료구조/0512/test01.c"
+
+CMakeFiles/new_target.dir/0512/test01.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/new_target.dir/0512/test01.c.i"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E "/Users/yoonjae/Desktop/학교/2025-1학기 자료구조/0512/test01.c" > CMakeFiles/new_target.dir/0512/test01.c.i
+
+CMakeFiles/new_target.dir/0512/test01.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/new_target.dir/0512/test01.c.s"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S "/Users/yoonjae/Desktop/학교/2025-1학기 자료구조/0512/test01.c" -o CMakeFiles/new_target.dir/0512/test01.c.s
+
 # Object files for target new_target
 new_target_OBJECTS = \
 "CMakeFiles/new_target.dir/middle_exam/que_test01.c.o" \
-"CMakeFiles/new_target.dir/middle_exam/deque_test01.c.o"
+"CMakeFiles/new_target.dir/middle_exam/deque_test01.c.o" \
+"CMakeFiles/new_target.dir/middle_exam/list_test01.c.o" \
+"CMakeFiles/new_target.dir/0507/test01.cpp.o" \
+"CMakeFiles/new_target.dir/0507/test02.c.o" \
+"CMakeFiles/new_target.dir/0512/test01.c.o"
 
 # External object files for target new_target
 new_target_EXTERNAL_OBJECTS =
 
 new_target: CMakeFiles/new_target.dir/middle_exam/que_test01.c.o
 new_target: CMakeFiles/new_target.dir/middle_exam/deque_test01.c.o
+new_target: CMakeFiles/new_target.dir/middle_exam/list_test01.c.o
+new_target: CMakeFiles/new_target.dir/0507/test01.cpp.o
+new_target: CMakeFiles/new_target.dir/0507/test02.c.o
+new_target: CMakeFiles/new_target.dir/0512/test01.c.o
 new_target: CMakeFiles/new_target.dir/build.make
 new_target: CMakeFiles/new_target.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir="/Users/yoonjae/Desktop/학교/2025-1학기 자료구조/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_3) "Linking C executable new_target"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir="/Users/yoonjae/Desktop/학교/2025-1학기 자료구조/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_7) "Linking CXX executable new_target"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/new_target.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

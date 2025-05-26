@@ -80,4 +80,9 @@ add_executable(new_target2 0512/tset02.c
         0514/test02.c)
 add_executable(practice9 practice_9/problem1.c
         practice_9/problem2.c
-        practice_9/problem3.c)
+        practice_9/problem3.c
+        0519/test01.c)
+add_executable(new_target3 0519/test02.c
+        0519/test01.c)
+add_executable(new_target1 0519/level.c)
+add_executable(new_target4 0526/test01.c)

@@ -207,6 +207,45 @@ practice9/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/practice9.dir/build.make CMakeFiles/practice9.dir/build
 .PHONY : practice9/fast
 
+#=============================================================================
+# Target rules for targets named new_target3
+
+# Build rule for target.
+new_target3: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 new_target3
+.PHONY : new_target3
+
+# fast build rule for target.
+new_target3/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/new_target3.dir/build.make CMakeFiles/new_target3.dir/build
+.PHONY : new_target3/fast
+
+#=============================================================================
+# Target rules for targets named new_target1
+
+# Build rule for target.
+new_target1: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 new_target1
+.PHONY : new_target1
+
+# fast build rule for target.
+new_target1/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/new_target1.dir/build.make CMakeFiles/new_target1.dir/build
+.PHONY : new_target1/fast
+
+#=============================================================================
+# Target rules for targets named new_target4
+
+# Build rule for target.
+new_target4: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 new_target4
+.PHONY : new_target4
+
+# fast build rule for target.
+new_target4/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/new_target4.dir/build.make CMakeFiles/new_target4.dir/build
+.PHONY : new_target4/fast
+
 0312/structTest.o: 0312/structTest.c.o
 .PHONY : 0312/structTest.o
 
@@ -1239,6 +1278,105 @@ practice9/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/new_target2.dir/build.make CMakeFiles/new_target2.dir/0514/test02.c.s
 .PHONY : 0514/test02.c.s
 
+0519/level.o: 0519/level.c.o
+.PHONY : 0519/level.o
+
+# target to build an object file
+0519/level.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/new_target1.dir/build.make CMakeFiles/new_target1.dir/0519/level.c.o
+.PHONY : 0519/level.c.o
+
+0519/level.i: 0519/level.c.i
+.PHONY : 0519/level.i
+
+# target to preprocess a source file
+0519/level.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/new_target1.dir/build.make CMakeFiles/new_target1.dir/0519/level.c.i
+.PHONY : 0519/level.c.i
+
+0519/level.s: 0519/level.c.s
+.PHONY : 0519/level.s
+
+# target to generate assembly for a file
+0519/level.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/new_target1.dir/build.make CMakeFiles/new_target1.dir/0519/level.c.s
+.PHONY : 0519/level.c.s
+
+0519/test01.o: 0519/test01.c.o
+.PHONY : 0519/test01.o
+
+# target to build an object file
+0519/test01.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/practice9.dir/build.make CMakeFiles/practice9.dir/0519/test01.c.o
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/new_target3.dir/build.make CMakeFiles/new_target3.dir/0519/test01.c.o
+.PHONY : 0519/test01.c.o
+
+0519/test01.i: 0519/test01.c.i
+.PHONY : 0519/test01.i
+
+# target to preprocess a source file
+0519/test01.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/practice9.dir/build.make CMakeFiles/practice9.dir/0519/test01.c.i
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/new_target3.dir/build.make CMakeFiles/new_target3.dir/0519/test01.c.i
+.PHONY : 0519/test01.c.i
+
+0519/test01.s: 0519/test01.c.s
+.PHONY : 0519/test01.s
+
+# target to generate assembly for a file
+0519/test01.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/practice9.dir/build.make CMakeFiles/practice9.dir/0519/test01.c.s
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/new_target3.dir/build.make CMakeFiles/new_target3.dir/0519/test01.c.s
+.PHONY : 0519/test01.c.s
+
+0519/test02.o: 0519/test02.c.o
+.PHONY : 0519/test02.o
+
+# target to build an object file
+0519/test02.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/new_target3.dir/build.make CMakeFiles/new_target3.dir/0519/test02.c.o
+.PHONY : 0519/test02.c.o
+
+0519/test02.i: 0519/test02.c.i
+.PHONY : 0519/test02.i
+
+# target to preprocess a source file
+0519/test02.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/new_target3.dir/build.make CMakeFiles/new_target3.dir/0519/test02.c.i
+.PHONY : 0519/test02.c.i
+
+0519/test02.s: 0519/test02.c.s
+.PHONY : 0519/test02.s
+
+# target to generate assembly for a file
+0519/test02.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/new_target3.dir/build.make CMakeFiles/new_target3.dir/0519/test02.c.s
+.PHONY : 0519/test02.c.s
+
+0526/test01.o: 0526/test01.c.o
+.PHONY : 0526/test01.o
+
+# target to build an object file
+0526/test01.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/new_target4.dir/build.make CMakeFiles/new_target4.dir/0526/test01.c.o
+.PHONY : 0526/test01.c.o
+
+0526/test01.i: 0526/test01.c.i
+.PHONY : 0526/test01.i
+
+# target to preprocess a source file
+0526/test01.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/new_target4.dir/build.make CMakeFiles/new_target4.dir/0526/test01.c.i
+.PHONY : 0526/test01.c.i
+
+0526/test01.s: 0526/test01.c.s
+.PHONY : 0526/test01.s
+
+# target to generate assembly for a file
+0526/test01.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/new_target4.dir/build.make CMakeFiles/new_target4.dir/0526/test01.c.s
+.PHONY : 0526/test01.c.s
+
 main.o: main.cpp.o
 .PHONY : main.o
 
@@ -1878,7 +2016,10 @@ help:
 	@echo "... hanoi_top"
 	@echo "... middle_exam_test01"
 	@echo "... new_target"
+	@echo "... new_target1"
 	@echo "... new_target2"
+	@echo "... new_target3"
+	@echo "... new_target4"
 	@echo "... practice9"
 	@echo "... terms_test"
 	@echo "... 0312/structTest.o"
@@ -2010,6 +2151,18 @@ help:
 	@echo "... 0514/test02.o"
 	@echo "... 0514/test02.i"
 	@echo "... 0514/test02.s"
+	@echo "... 0519/level.o"
+	@echo "... 0519/level.i"
+	@echo "... 0519/level.s"
+	@echo "... 0519/test01.o"
+	@echo "... 0519/test01.i"
+	@echo "... 0519/test01.s"
+	@echo "... 0519/test02.o"
+	@echo "... 0519/test02.i"
+	@echo "... 0519/test02.s"
+	@echo "... 0526/test01.o"
+	@echo "... 0526/test01.i"
+	@echo "... 0526/test01.s"
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"

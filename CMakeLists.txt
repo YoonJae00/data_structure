@@ -86,3 +86,6 @@ add_executable(new_target3 0519/test02.c
         0519/test01.c)
 add_executable(new_target1 0519/level.c)
 add_executable(new_target4 0526/test01.c)
+add_executable(new_target5 0602/test01.c
+        0602/test02.c)
+add_executable(new_target6 0604/test01.c)

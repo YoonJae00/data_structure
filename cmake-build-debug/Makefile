@@ -246,6 +246,32 @@ new_target4/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/new_target4.dir/build.make CMakeFiles/new_target4.dir/build
 .PHONY : new_target4/fast
 
+#=============================================================================
+# Target rules for targets named new_target5
+
+# Build rule for target.
+new_target5: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 new_target5
+.PHONY : new_target5
+
+# fast build rule for target.
+new_target5/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/new_target5.dir/build.make CMakeFiles/new_target5.dir/build
+.PHONY : new_target5/fast
+
+#=============================================================================
+# Target rules for targets named new_target6
+
+# Build rule for target.
+new_target6: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 new_target6
+.PHONY : new_target6
+
+# fast build rule for target.
+new_target6/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/new_target6.dir/build.make CMakeFiles/new_target6.dir/build
+.PHONY : new_target6/fast
+
 0312/structTest.o: 0312/structTest.c.o
 .PHONY : 0312/structTest.o
 
@@ -1377,6 +1403,78 @@ new_target4/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/new_target4.dir/build.make CMakeFiles/new_target4.dir/0526/test01.c.s
 .PHONY : 0526/test01.c.s
 
+0602/test01.o: 0602/test01.c.o
+.PHONY : 0602/test01.o
+
+# target to build an object file
+0602/test01.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/new_target5.dir/build.make CMakeFiles/new_target5.dir/0602/test01.c.o
+.PHONY : 0602/test01.c.o
+
+0602/test01.i: 0602/test01.c.i
+.PHONY : 0602/test01.i
+
+# target to preprocess a source file
+0602/test01.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/new_target5.dir/build.make CMakeFiles/new_target5.dir/0602/test01.c.i
+.PHONY : 0602/test01.c.i
+
+0602/test01.s: 0602/test01.c.s
+.PHONY : 0602/test01.s
+
+# target to generate assembly for a file
+0602/test01.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/new_target5.dir/build.make CMakeFiles/new_target5.dir/0602/test01.c.s
+.PHONY : 0602/test01.c.s
+
+0602/test02.o: 0602/test02.c.o
+.PHONY : 0602/test02.o
+
+# target to build an object file
+0602/test02.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/new_target5.dir/build.make CMakeFiles/new_target5.dir/0602/test02.c.o
+.PHONY : 0602/test02.c.o
+
+0602/test02.i: 0602/test02.c.i
+.PHONY : 0602/test02.i
+
+# target to preprocess a source file
+0602/test02.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/new_target5.dir/build.make CMakeFiles/new_target5.dir/0602/test02.c.i
+.PHONY : 0602/test02.c.i
+
+0602/test02.s: 0602/test02.c.s
+.PHONY : 0602/test02.s
+
+# target to generate assembly for a file
+0602/test02.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/new_target5.dir/build.make CMakeFiles/new_target5.dir/0602/test02.c.s
+.PHONY : 0602/test02.c.s
+
+0604/test01.o: 0604/test01.c.o
+.PHONY : 0604/test01.o
+
+# target to build an object file
+0604/test01.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/new_target6.dir/build.make CMakeFiles/new_target6.dir/0604/test01.c.o
+.PHONY : 0604/test01.c.o
+
+0604/test01.i: 0604/test01.c.i
+.PHONY : 0604/test01.i
+
+# target to preprocess a source file
+0604/test01.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/new_target6.dir/build.make CMakeFiles/new_target6.dir/0604/test01.c.i
+.PHONY : 0604/test01.c.i
+
+0604/test01.s: 0604/test01.c.s
+.PHONY : 0604/test01.s
+
+# target to generate assembly for a file
+0604/test01.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/new_target6.dir/build.make CMakeFiles/new_target6.dir/0604/test01.c.s
+.PHONY : 0604/test01.c.s
+
 main.o: main.cpp.o
 .PHONY : main.o
 
@@ -2020,6 +2118,8 @@ help:
 	@echo "... new_target2"
 	@echo "... new_target3"
 	@echo "... new_target4"
+	@echo "... new_target5"
+	@echo "... new_target6"
 	@echo "... practice9"
 	@echo "... terms_test"
 	@echo "... 0312/structTest.o"
@@ -2163,6 +2263,15 @@ help:
 	@echo "... 0526/test01.o"
 	@echo "... 0526/test01.i"
 	@echo "... 0526/test01.s"
+	@echo "... 0602/test01.o"
+	@echo "... 0602/test01.i"
+	@echo "... 0602/test01.s"
+	@echo "... 0602/test02.o"
+	@echo "... 0602/test02.i"
+	@echo "... 0602/test02.s"
+	@echo "... 0604/test01.o"
+	@echo "... 0604/test01.i"
+	@echo "... 0604/test01.s"
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"

@@ -57,4 +57,6 @@ set(CMAKE_DEPEND_INFO_FILES
   "CMakeFiles/new_target3.dir/DependInfo.cmake"
   "CMakeFiles/new_target1.dir/DependInfo.cmake"
   "CMakeFiles/new_target4.dir/DependInfo.cmake"
+  "CMakeFiles/new_target5.dir/DependInfo.cmake"
+  "CMakeFiles/new_target6.dir/DependInfo.cmake"
   )

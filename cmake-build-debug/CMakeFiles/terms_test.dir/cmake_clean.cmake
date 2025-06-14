@@ -1,11 +1,13 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/terms_test.dir/middle_exam/terms.c.o"
-  "CMakeFiles/terms_test.dir/middle_exam/terms.c.o.d"
-  "CMakeFiles/terms_test.dir/middle_exam/test03.c.o"
-  "CMakeFiles/terms_test.dir/middle_exam/test03.c.o.d"
-  "CMakeFiles/terms_test.dir/middle_exam/test04.c.o"
-  "CMakeFiles/terms_test.dir/middle_exam/test04.c.o.d"
-  "terms_test"
+  "CMakeFiles/terms_test.dir/middle_exam/terms.c.obj"
+  "CMakeFiles/terms_test.dir/middle_exam/terms.c.obj.d"
+  "CMakeFiles/terms_test.dir/middle_exam/test03.c.obj"
+  "CMakeFiles/terms_test.dir/middle_exam/test03.c.obj.d"
+  "CMakeFiles/terms_test.dir/middle_exam/test04.c.obj"
+  "CMakeFiles/terms_test.dir/middle_exam/test04.c.obj.d"
+  "libterms_test.dll.a"
+  "terms_test.exe"
+  "terms_test.exe.manifest"
   "terms_test.pdb"
 )
 

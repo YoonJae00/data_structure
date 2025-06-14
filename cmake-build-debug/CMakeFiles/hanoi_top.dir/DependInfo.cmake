@@ -8,7 +8,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "/Users/yoonjae/Desktop/학교/2025-1학기 자료구조/middle_exam/hanoi_top.c" "CMakeFiles/hanoi_top.dir/middle_exam/hanoi_top.c.o" "gcc" "CMakeFiles/hanoi_top.dir/middle_exam/hanoi_top.c.o.d"
+  "C:/lecture/data_structure/middle_exam/hanoi_top.c" "CMakeFiles/hanoi_top.dir/middle_exam/hanoi_top.c.obj" "gcc" "CMakeFiles/hanoi_top.dir/middle_exam/hanoi_top.c.obj.d"
   )
 
 # Targets to which this target links which contain Fortran sources.

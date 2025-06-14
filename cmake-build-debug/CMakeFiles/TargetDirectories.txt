@@ -1,14 +1,15 @@
-/Users/yoonjae/Desktop/학교/2025-1학기 자료구조/cmake-build-debug/CMakeFiles/2025_1_.dir
-/Users/yoonjae/Desktop/학교/2025-1학기 자료구조/cmake-build-debug/CMakeFiles/middle_exam_test01.dir
-/Users/yoonjae/Desktop/학교/2025-1학기 자료구조/cmake-build-debug/CMakeFiles/hanoi_top.dir
-/Users/yoonjae/Desktop/학교/2025-1학기 자료구조/cmake-build-debug/CMakeFiles/terms_test.dir
-/Users/yoonjae/Desktop/학교/2025-1학기 자료구조/cmake-build-debug/CMakeFiles/new_target.dir
-/Users/yoonjae/Desktop/학교/2025-1학기 자료구조/cmake-build-debug/CMakeFiles/new_target2.dir
-/Users/yoonjae/Desktop/학교/2025-1학기 자료구조/cmake-build-debug/CMakeFiles/practice9.dir
-/Users/yoonjae/Desktop/학교/2025-1학기 자료구조/cmake-build-debug/CMakeFiles/new_target3.dir
-/Users/yoonjae/Desktop/학교/2025-1학기 자료구조/cmake-build-debug/CMakeFiles/new_target1.dir
-/Users/yoonjae/Desktop/학교/2025-1학기 자료구조/cmake-build-debug/CMakeFiles/new_target4.dir
-/Users/yoonjae/Desktop/학교/2025-1학기 자료구조/cmake-build-debug/CMakeFiles/new_target5.dir
-/Users/yoonjae/Desktop/학교/2025-1학기 자료구조/cmake-build-debug/CMakeFiles/new_target6.dir
-/Users/yoonjae/Desktop/학교/2025-1학기 자료구조/cmake-build-debug/CMakeFiles/edit_cache.dir
-/Users/yoonjae/Desktop/학교/2025-1학기 자료구조/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/lecture/data_structure/cmake-build-debug/CMakeFiles/2025_1_.dir
+C:/lecture/data_structure/cmake-build-debug/CMakeFiles/middle_exam_test01.dir
+C:/lecture/data_structure/cmake-build-debug/CMakeFiles/hanoi_top.dir
+C:/lecture/data_structure/cmake-build-debug/CMakeFiles/terms_test.dir
+C:/lecture/data_structure/cmake-build-debug/CMakeFiles/new_target.dir
+C:/lecture/data_structure/cmake-build-debug/CMakeFiles/new_target2.dir
+C:/lecture/data_structure/cmake-build-debug/CMakeFiles/practice9.dir
+C:/lecture/data_structure/cmake-build-debug/CMakeFiles/new_target3.dir
+C:/lecture/data_structure/cmake-build-debug/CMakeFiles/new_target1.dir
+C:/lecture/data_structure/cmake-build-debug/CMakeFiles/new_target4.dir
+C:/lecture/data_structure/cmake-build-debug/CMakeFiles/new_target5.dir
+C:/lecture/data_structure/cmake-build-debug/CMakeFiles/new_target6.dir
+C:/lecture/data_structure/cmake-build-debug/CMakeFiles/new_target7.dir
+C:/lecture/data_structure/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/lecture/data_structure/cmake-build-debug/CMakeFiles/rebuild_cache.dir

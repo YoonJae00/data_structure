@@ -8,12 +8,12 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "/Users/yoonjae/Desktop/학교/2025-1학기 자료구조/0507/test02.c" "CMakeFiles/new_target.dir/0507/test02.c.o" "gcc" "CMakeFiles/new_target.dir/0507/test02.c.o.d"
-  "/Users/yoonjae/Desktop/학교/2025-1학기 자료구조/0512/test01.c" "CMakeFiles/new_target.dir/0512/test01.c.o" "gcc" "CMakeFiles/new_target.dir/0512/test01.c.o.d"
-  "/Users/yoonjae/Desktop/학교/2025-1학기 자료구조/middle_exam/deque_test01.c" "CMakeFiles/new_target.dir/middle_exam/deque_test01.c.o" "gcc" "CMakeFiles/new_target.dir/middle_exam/deque_test01.c.o.d"
-  "/Users/yoonjae/Desktop/학교/2025-1학기 자료구조/middle_exam/list_test01.c" "CMakeFiles/new_target.dir/middle_exam/list_test01.c.o" "gcc" "CMakeFiles/new_target.dir/middle_exam/list_test01.c.o.d"
-  "/Users/yoonjae/Desktop/학교/2025-1학기 자료구조/middle_exam/que_test01.c" "CMakeFiles/new_target.dir/middle_exam/que_test01.c.o" "gcc" "CMakeFiles/new_target.dir/middle_exam/que_test01.c.o.d"
-  "/Users/yoonjae/Desktop/학교/2025-1학기 자료구조/0507/test01.cpp" "CMakeFiles/new_target.dir/0507/test01.cpp.o" "gcc" "CMakeFiles/new_target.dir/0507/test01.cpp.o.d"
+  "C:/lecture/data_structure/0507/test02.c" "CMakeFiles/new_target.dir/0507/test02.c.obj" "gcc" "CMakeFiles/new_target.dir/0507/test02.c.obj.d"
+  "C:/lecture/data_structure/0512/test01.c" "CMakeFiles/new_target.dir/0512/test01.c.obj" "gcc" "CMakeFiles/new_target.dir/0512/test01.c.obj.d"
+  "C:/lecture/data_structure/middle_exam/deque_test01.c" "CMakeFiles/new_target.dir/middle_exam/deque_test01.c.obj" "gcc" "CMakeFiles/new_target.dir/middle_exam/deque_test01.c.obj.d"
+  "C:/lecture/data_structure/middle_exam/list_test01.c" "CMakeFiles/new_target.dir/middle_exam/list_test01.c.obj" "gcc" "CMakeFiles/new_target.dir/middle_exam/list_test01.c.obj.d"
+  "C:/lecture/data_structure/middle_exam/que_test01.c" "CMakeFiles/new_target.dir/middle_exam/que_test01.c.obj" "gcc" "CMakeFiles/new_target.dir/middle_exam/que_test01.c.obj.d"
+  "C:/lecture/data_structure/0507/test01.cpp" "CMakeFiles/new_target.dir/0507/test01.cpp.obj" "gcc" "CMakeFiles/new_target.dir/0507/test01.cpp.obj.d"
   )
 
 # Targets to which this target links which contain Fortran sources.
